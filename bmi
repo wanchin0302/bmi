@@ -9,6 +9,7 @@ elif bmi >= 24 and bmi < 35:
 else:
     print("體重過重")
 
+------------------------------------------
 
 height = input('請輸入身高(cm)： ')
 weight = input('請輸入體重(kg)： ')
